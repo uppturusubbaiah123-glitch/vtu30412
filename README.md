@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
