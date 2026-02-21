@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
