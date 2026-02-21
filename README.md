@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
