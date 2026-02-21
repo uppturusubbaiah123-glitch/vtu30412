@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
