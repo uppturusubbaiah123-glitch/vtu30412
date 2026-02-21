@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0946-validate-stack-sequences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0641-design-circular-deque) |
 ## Counting
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
