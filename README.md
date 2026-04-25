@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
 |  |
