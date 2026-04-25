@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0973-k-closest-points-to-origin) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0746-min-cost-climbing-stairs) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Divide and Conquer
