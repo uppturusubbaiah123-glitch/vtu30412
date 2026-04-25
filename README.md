@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0198-house-robber) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
