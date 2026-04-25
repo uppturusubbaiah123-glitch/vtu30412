@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Enumeration
