@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
