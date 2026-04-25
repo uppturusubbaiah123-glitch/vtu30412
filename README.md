@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Binary Search
