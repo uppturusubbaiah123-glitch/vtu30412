@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 ## Sorting
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
