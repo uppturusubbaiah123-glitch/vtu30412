@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1480-running-sum-of-1d-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
