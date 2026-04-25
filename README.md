@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0542-01-matrix) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Greedy
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
