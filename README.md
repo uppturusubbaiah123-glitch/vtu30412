@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
+| [3771-total-score-of-dungeon-runs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3771-total-score-of-dungeon-runs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/3771-total-score-of-dungeon-runs) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0704-binary-search) |
+| [3771-total-score-of-dungeon-runs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/3771-total-score-of-dungeon-runs) |
 ## Monotonic Stack
 |  |
 | ------- |
