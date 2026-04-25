@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 | [3771-total-score-of-dungeon-runs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
 |  |
 | ------- |
