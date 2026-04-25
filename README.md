@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0306-additive-number) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Binary Search Tree
 |  |
