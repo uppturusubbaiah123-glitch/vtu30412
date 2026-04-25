@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 | [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 | [3771-total-score-of-dungeon-runs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0746-min-cost-climbing-stairs) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Divide and Conquer
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0973-k-closest-points-to-origin) |
 | [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## String
 |  |
 | ------- |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Queue
 |  |
 | ------- |
@@ -375,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0070-climbing-stairs) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Combinatorics
 |  |
 | ------- |
