@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
