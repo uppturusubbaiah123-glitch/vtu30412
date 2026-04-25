@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
+| [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0202-happy-number) |
+| [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
+| [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
 ## Sorting
 |  |
 | ------- |
