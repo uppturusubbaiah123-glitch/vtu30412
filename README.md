@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 | [1399-count-largest-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1399-count-largest-group) |
+| [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0239-sliding-window-maximum) |
+| [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1763-longest-nice-substring) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Enumeration
