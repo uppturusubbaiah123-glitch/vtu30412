@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0322-coin-change) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0542-01-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2708-maximum-strength-of-a-group](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/2708-maximum-strength-of-a-group) |
 ## Bit Manipulation
