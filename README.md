@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0997-find-the-town-judge) |
 ## Linked List
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0946-validate-stack-sequences) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0075-sort-colors) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -248,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/uppturusubbaiah123-glitch/vtu30412/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
